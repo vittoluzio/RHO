@@ -10,11 +10,11 @@ As Kanye West said:
 ### Product
 
 ```markdown
-1. **Product 1**
-  1. _**Product 1.a**_
+1. Product 1
+  1. Product 1.a
     - efficient
     - intuative
-  2. _**Product 2.a**_
+  2. Product 2.a
     - cost friendly
     - enorionmentally friendly
 2. **Product 2**
